@@ -1,1 +1,18 @@
 @import "tailwindcss";
+*{
+    box-sizing: border-box;
+}
+.heading{
+    font-size: 4rem;
+    font-family: "heebo";
+    font-weight: 900
+}
+.paragraph-text{
+    width: 80%;
+    margin-top: 2rem;
+    font-family: "heebo" , sans-serif;  
+    font-weight: 400;
+}
+.menu-btn{
+    width: 19rem;
+}
